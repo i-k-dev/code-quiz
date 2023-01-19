@@ -25,9 +25,23 @@ button {
   border: 0;
   transition: background-color 0.1s;
 }
+/* BG color animation :-) */
+* {
+  animation: colors 10s infinite;
+}
+
+@keyframes colors {
+  from {
+    background-color: blue;
+  }
+
+  to {
+    background-color: green;
+  }
+}
 
 button:hover {
-  background-color: #8570a5;
+  background-color: #1ac822;
 }
 
 .choices button {
