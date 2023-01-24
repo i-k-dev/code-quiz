@@ -6,7 +6,7 @@ As I proceed in my journey to becoming a front-end web developer, it’s likely 
 
 ## Description
 
-This project takes on the 5th week challenge which is creating a password generator app that runs on a web browser.
+This project takes on the 6th week challenge which is creating a code quiz web app.
 
 ## User Story
 
